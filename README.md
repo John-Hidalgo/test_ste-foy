@@ -4,3 +4,4 @@
 Charles Grondin    
 Laurent Faggin  
 David Fournel-Vezina
+John Hidalgo
